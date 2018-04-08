@@ -6,6 +6,7 @@ public class Dog {
 		// TODO Auto-generated method stub
 		
 		System.out.println(1.2);
+		System.out.print(12345);
 
 	}
 
